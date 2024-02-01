@@ -131,7 +131,10 @@ function RegisterPage({ setAuth, ...props }) {
             />
             <div className="password-warning">
               Passwords are not securely stored.<br />
-                  Do not enter any currently used passwords.
+                Do not enter any currently used passwords.<br />
+              For DEMO:<br />
+              email: demo_user1@email.com password: demo_user1<br />
+              email: demo_user2@email.com password: demo_user2
                 </div>
             <Button type="submit" fullWidth variant="contained" color="primary">
               Sign Up
