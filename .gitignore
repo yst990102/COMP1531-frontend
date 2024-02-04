@@ -1,11 +1,1 @@
-# dependencies
 /node_modules
-
-# production
-/build
-/public
-
-# misc
-.idea/
-.env
-/.npmrc
